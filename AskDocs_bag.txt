@@ -1,0 +1,31 @@
+Topic: 0
+Words: 0.013*"go" + 0.012*"time" + 0.011*"pain" + 0.011*"like" + 0.011*"year" + 0.008*"start" + 0.008*"month" + 0.008*"get" + 0.008*"https" + 0.008*"say"
+
+Topic: 1
+Words: 0.030*"https" + 0.021*"imgur" + 0.014*"time" + 0.013*"medic" + 0.012*"like" + 0.012*"skin" + 0.012*"week" + 0.010*"take" + 0.010*"start" + 0.010*"month"
+
+Topic: 2
+Words: 0.016*"blood" + 0.015*"test" + 0.014*"week" + 0.013*"year" + 0.012*"like" + 0.012*"doctor" + 0.009*"time" + 0.009*"month" + 0.008*"think" + 0.008*"take"
+
+Topic: 3
+Words: 0.014*"like" + 0.013*"heart" + 0.012*"doctor" + 0.011*"time" + 0.011*"normal" + 0.010*"pain" + 0.010*"help" + 0.009*"thank" + 0.008*"feel" + 0.008*"know"
+
+Topic: 4
+Words: 0.023*"year" + 0.013*"go" + 0.012*"doctor" + 0.010*"know" + 0.008*"take" + 0.008*"medic" + 0.007*"need" + 0.007*"week" + 0.007*"say" + 0.007*"male"
+
+Topic: 5
+Words: 0.023*"like" + 0.023*"feel" + 0.013*"know" + 0.011*"year" + 0.011*"go" + 0.010*"pain" + 0.010*"time" + 0.009*"think" + 0.009*"week" + 0.009*"normal"
+
+Topic: 6
+Words: 0.017*"pain" + 0.017*"like" + 0.016*"year" + 0.015*"medic" + 0.010*"go" + 0.010*"feel" + 0.009*"time" + 0.009*"know" + 0.009*"issu" + 0.008*"day"
+
+Topic: 7
+Words: 0.015*"like" + 0.014*"imgur" + 0.013*"https" + 0.012*"feel" + 0.010*"think" + 0.010*"time" + 0.009*"water" + 0.008*"start" + 0.008*"skin" + 0.008*"hour"
+
+Topic: 8
+Words: 0.018*"pain" + 0.018*"feel" + 0.014*"like" + 0.014*"leav" + 0.013*"right" + 0.013*"go" + 0.012*"start" + 0.011*"think" + 0.010*"week" + 0.009*"come"
+
+Topic: 9
+Words: 0.018*"feel" + 0.017*"like" + 0.013*"doctor" + 0.013*"know" + 0.012*"go" + 0.011*"take" + 0.010*"time" + 0.010*"happen" + 0.009*"day" + 0.009*"month"
+
+

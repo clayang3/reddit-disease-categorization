@@ -1,0 +1,31 @@
+Topic: 0
+Words: 0.005*"pain" + 0.005*"feel" + 0.004*"like" + 0.004*"month" + 0.004*"know" + 0.004*"year" + 0.004*"doctor" + 0.004*"take" + 0.004*"help" + 0.004*"time"
+
+Topic: 1
+Words: 0.004*"https" + 0.004*"feel" + 0.004*"week" + 0.004*"year" + 0.004*"medic" + 0.004*"take" + 0.004*"month" + 0.004*"like" + 0.004*"symptom" + 0.004*"imgur"
+
+Topic: 2
+Words: 0.006*"https" + 0.005*"imgur" + 0.005*"like" + 0.004*"feel" + 0.004*"pain" + 0.004*"caus" + 0.004*"go" + 0.004*"time" + 0.004*"doctor" + 0.004*"blood"
+
+Topic: 3
+Words: 0.007*"https" + 0.007*"imgur" + 0.006*"rash" + 0.005*"feel" + 0.005*"pain" + 0.004*"year" + 0.004*"go" + 0.004*"start" + 0.004*"like" + 0.004*"medic"
+
+Topic: 4
+Words: 0.005*"like" + 0.005*"notic" + 0.004*"hurt" + 0.004*"feel" + 0.004*"medic" + 0.004*"year" + 0.004*"skin" + 0.004*"know" + 0.004*"pain" + 0.004*"time"
+
+Topic: 5
+Words: 0.005*"doctor" + 0.004*"pain" + 0.004*"year" + 0.004*"tell" + 0.004*"like" + 0.004*"feel" + 0.004*"time" + 0.004*"want" + 0.003*"notic" + 0.003*"issu"
+
+Topic: 6
+Words: 0.005*"feel" + 0.005*"pain" + 0.004*"time" + 0.004*"like" + 0.004*"heart" + 0.004*"start" + 0.004*"go" + 0.004*"blood" + 0.004*"medic" + 0.003*"happen"
+
+Topic: 7
+Words: 0.005*"like" + 0.005*"pain" + 0.004*"https" + 0.004*"nose" + 0.004*"imgur" + 0.004*"have" + 0.004*"year" + 0.004*"right" + 0.004*"doctor" + 0.003*"week"
+
+Topic: 8
+Words: 0.004*"pain" + 0.004*"take" + 0.004*"say" + 0.004*"doctor" + 0.004*"year" + 0.004*"think" + 0.004*"like" + 0.004*"feel" + 0.004*"test" + 0.004*"https"
+
+Topic: 9
+Words: 0.008*"https" + 0.008*"imgur" + 0.005*"itch" + 0.005*"skin" + 0.005*"male" + 0.005*"itchi" + 0.004*"notic" + 0.004*"week" + 0.004*"medic" + 0.004*"appear"
+
+
